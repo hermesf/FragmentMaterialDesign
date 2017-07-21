@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\hermesf\\Documents\\HF\\Proyectos Android Studio\\FragmentMaterialDesign\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "C:\\Users\\hermesf\\Documents\\HF\\Proyectos Android Studio\\FragmentMaterialDesign\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 642,
+                        "endColumn": 52,
+                        "endOffset": 690
+                    }
+                }
+            }
+        ]
+    }
+]
